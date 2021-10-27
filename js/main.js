@@ -25,5 +25,5 @@ alert('Memorizza questi 5 numeri: ' + numeriRandom)
             }
      }
      alert("Hai indovinato " + numeriUser.length + " numeri. I numeri che hai indovinato: " + numeriUser)
-    }, 3000);
+    }, 30000);
  
